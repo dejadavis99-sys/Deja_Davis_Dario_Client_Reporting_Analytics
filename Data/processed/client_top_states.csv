@@ -1,0 +1,21 @@
+stateabbr,statedesc,measureid,measure,locations,avg_prevalence,median_prevalence
+MS,Mississippi,BPHIGH,High blood pressure among adults,82,43.45,42.95
+AL,Alabama,BPHIGH,High blood pressure among adults,67,41.65,40.5
+LA,Louisiana,BPHIGH,High blood pressure among adults,64,41.16,40.9
+AR,Arkansas,BPHIGH,High blood pressure among adults,75,39.58,38.5
+WV,West Virginia,BPHIGH,High blood pressure among adults,55,38.97,38.7
+MS,Mississippi,DIABETES,Diagnosed diabetes among adults,82,14.76,14.4
+LA,Louisiana,DIABETES,Diagnosed diabetes among adults,64,14.18,14.3
+AL,Alabama,DIABETES,Diagnosed diabetes among adults,67,13.91,13.1
+SC,South Carolina,DIABETES,Diagnosed diabetes among adults,46,13.46,13.2
+GA,Georgia,DIABETES,Diagnosed diabetes among adults,159,13.32,13.4
+MS,Mississippi,LPA,No leisure-time physical activity among adults,82,35.84,35.65
+AR,Arkansas,LPA,No leisure-time physical activity among adults,75,34.26,34.4
+LA,Louisiana,LPA,No leisure-time physical activity among adults,64,32.72,32.35
+OK,Oklahoma,LPA,No leisure-time physical activity among adults,77,32.72,32.5
+WV,West Virginia,LPA,No leisure-time physical activity among adults,55,32.65,32.6
+MS,Mississippi,OBESITY,Obesity among adults,82,42.84,42.6
+LA,Louisiana,OBESITY,Obesity among adults,64,42.19,42.35
+AL,Alabama,OBESITY,Obesity among adults,67,41.93,40.8
+WV,West Virginia,OBESITY,Obesity among adults,55,41.33,41.3
+AR,Arkansas,OBESITY,Obesity among adults,75,41.1,40.6

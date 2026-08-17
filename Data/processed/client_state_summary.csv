@@ -1,0 +1,201 @@
+stateabbr,statedesc,measureid,measure,locations,avg_prevalence,median_prevalence
+AK,Alaska,BPHIGH,High blood pressure among adults,30,32.8,31.95
+AK,Alaska,DIABETES,Diagnosed diabetes among adults,30,10.35,9.1
+AK,Alaska,LPA,No leisure-time physical activity among adults,30,24.2,22.65
+AK,Alaska,OBESITY,Obesity among adults,30,35.34,35.0
+AL,Alabama,BPHIGH,High blood pressure among adults,67,41.65,40.5
+AL,Alabama,DIABETES,Diagnosed diabetes among adults,67,13.91,13.1
+AL,Alabama,LPA,No leisure-time physical activity among adults,67,30.79,30.5
+AL,Alabama,OBESITY,Obesity among adults,67,41.93,40.8
+AR,Arkansas,BPHIGH,High blood pressure among adults,75,39.58,38.5
+AR,Arkansas,DIABETES,Diagnosed diabetes among adults,75,12.41,12.0
+AR,Arkansas,LPA,No leisure-time physical activity among adults,75,34.26,34.4
+AR,Arkansas,OBESITY,Obesity among adults,75,41.1,40.6
+AZ,Arizona,BPHIGH,High blood pressure among adults,15,30.65,31.0
+AZ,Arizona,DIABETES,Diagnosed diabetes among adults,15,10.99,10.6
+AZ,Arizona,LPA,No leisure-time physical activity among adults,15,24.39,24.7
+AZ,Arizona,OBESITY,Obesity among adults,15,33.65,33.3
+CA,California,BPHIGH,High blood pressure among adults,58,29.26,29.4
+CA,California,DIABETES,Diagnosed diabetes among adults,58,10.31,10.1
+CA,California,LPA,No leisure-time physical activity among adults,58,24.06,23.5
+CA,California,OBESITY,Obesity among adults,58,29.98,30.35
+CO,Colorado,BPHIGH,High blood pressure among adults,64,26.69,26.75
+CO,Colorado,DIABETES,Diagnosed diabetes among adults,64,8.57,8.25
+CO,Colorado,LPA,No leisure-time physical activity among adults,64,18.98,18.95
+CO,Colorado,OBESITY,Obesity among adults,64,27.07,27.15
+CT,Connecticut,BPHIGH,High blood pressure among adults,9,28.41,28.4
+CT,Connecticut,DIABETES,Diagnosed diabetes among adults,9,8.42,8.8
+CT,Connecticut,LPA,No leisure-time physical activity among adults,9,23.92,23.5
+CT,Connecticut,OBESITY,Obesity among adults,9,30.61,30.7
+DC,District of Columbia,BPHIGH,High blood pressure among adults,1,30.3,30.3
+DC,District of Columbia,DIABETES,Diagnosed diabetes among adults,1,8.5,8.5
+DC,District of Columbia,LPA,No leisure-time physical activity among adults,1,15.3,15.3
+DC,District of Columbia,OBESITY,Obesity among adults,1,25.1,25.1
+DE,Delaware,BPHIGH,High blood pressure among adults,3,33.63,32.8
+DE,Delaware,DIABETES,Diagnosed diabetes among adults,3,10.97,10.7
+DE,Delaware,LPA,No leisure-time physical activity among adults,3,26.9,25.2
+DE,Delaware,OBESITY,Obesity among adults,3,37.17,34.2
+FL,Florida,BPHIGH,High blood pressure among adults,67,33.22,32.9
+FL,Florida,DIABETES,Diagnosed diabetes among adults,67,11.43,11.2
+FL,Florida,LPA,No leisure-time physical activity among adults,67,26.22,25.5
+FL,Florida,OBESITY,Obesity among adults,67,34.82,34.5
+GA,Georgia,BPHIGH,High blood pressure among adults,159,37.68,37.9
+GA,Georgia,DIABETES,Diagnosed diabetes among adults,159,13.32,13.4
+GA,Georgia,LPA,No leisure-time physical activity among adults,159,30.1,30.5
+GA,Georgia,OBESITY,Obesity among adults,159,38.62,39.1
+HI,Hawaii,BPHIGH,High blood pressure among adults,5,26.82,27.0
+HI,Hawaii,DIABETES,Diagnosed diabetes among adults,5,10.38,9.6
+HI,Hawaii,LPA,No leisure-time physical activity among adults,5,20.84,20.7
+HI,Hawaii,OBESITY,Obesity among adults,5,27.36,26.2
+IA,Iowa,BPHIGH,High blood pressure among adults,99,31.08,31.0
+IA,Iowa,DIABETES,Diagnosed diabetes among adults,99,9.76,9.7
+IA,Iowa,LPA,No leisure-time physical activity among adults,99,25.07,25.2
+IA,Iowa,OBESITY,Obesity among adults,99,39.52,39.7
+ID,Idaho,BPHIGH,High blood pressure among adults,44,29.39,29.65
+ID,Idaho,DIABETES,Diagnosed diabetes among adults,44,9.49,9.2
+ID,Idaho,LPA,No leisure-time physical activity among adults,44,23.89,23.45
+ID,Idaho,OBESITY,Obesity among adults,44,33.53,33.5
+IL,Illinois,BPHIGH,High blood pressure among adults,102,31.98,31.8
+IL,Illinois,DIABETES,Diagnosed diabetes among adults,102,10.17,10.15
+IL,Illinois,LPA,No leisure-time physical activity among adults,102,23.41,23.6
+IL,Illinois,OBESITY,Obesity among adults,102,38.65,38.95
+IN,Indiana,BPHIGH,High blood pressure among adults,92,34.69,34.85
+IN,Indiana,DIABETES,Diagnosed diabetes among adults,92,11.27,11.2
+IN,Indiana,LPA,No leisure-time physical activity among adults,92,25.22,25.6
+IN,Indiana,OBESITY,Obesity among adults,92,39.76,39.65
+KS,Kansas,BPHIGH,High blood pressure among adults,105,31.78,31.6
+KS,Kansas,DIABETES,Diagnosed diabetes among adults,105,10.17,10.0
+KS,Kansas,LPA,No leisure-time physical activity among adults,105,27.33,27.1
+KS,Kansas,OBESITY,Obesity among adults,105,38.92,39.3
+LA,Louisiana,BPHIGH,High blood pressure among adults,64,41.16,40.9
+LA,Louisiana,DIABETES,Diagnosed diabetes among adults,64,14.18,14.3
+LA,Louisiana,LPA,No leisure-time physical activity among adults,64,32.72,32.35
+LA,Louisiana,OBESITY,Obesity among adults,64,42.19,42.35
+MA,Massachusetts,BPHIGH,High blood pressure among adults,14,27.91,27.6
+MA,Massachusetts,DIABETES,Diagnosed diabetes among adults,14,8.34,8.15
+MA,Massachusetts,LPA,No leisure-time physical activity among adults,14,20.41,19.8
+MA,Massachusetts,OBESITY,Obesity among adults,14,28.06,26.85
+MD,Maryland,BPHIGH,High blood pressure among adults,24,34.08,33.6
+MD,Maryland,DIABETES,Diagnosed diabetes among adults,24,10.68,10.35
+MD,Maryland,LPA,No leisure-time physical activity among adults,24,23.7,22.85
+MD,Maryland,OBESITY,Obesity among adults,24,36.39,36.8
+ME,Maine,BPHIGH,High blood pressure among adults,16,30.1,29.4
+ME,Maine,DIABETES,Diagnosed diabetes among adults,16,9.11,9.1
+ME,Maine,LPA,No leisure-time physical activity among adults,16,22.86,23.25
+ME,Maine,OBESITY,Obesity among adults,16,33.75,34.2
+MI,Michigan,BPHIGH,High blood pressure among adults,83,32.52,32.7
+MI,Michigan,DIABETES,Diagnosed diabetes among adults,83,10.07,10.1
+MI,Michigan,LPA,No leisure-time physical activity among adults,83,24.54,25.0
+MI,Michigan,OBESITY,Obesity among adults,83,37.97,38.3
+MN,Minnesota,BPHIGH,High blood pressure among adults,87,28.56,28.6
+MN,Minnesota,DIABETES,Diagnosed diabetes among adults,87,9.34,9.3
+MN,Minnesota,LPA,No leisure-time physical activity among adults,87,24.09,24.0
+MN,Minnesota,OBESITY,Obesity among adults,87,37.02,37.1
+MO,Missouri,BPHIGH,High blood pressure among adults,115,34.05,33.9
+MO,Missouri,DIABETES,Diagnosed diabetes among adults,115,10.98,11.0
+MO,Missouri,LPA,No leisure-time physical activity among adults,115,31.03,31.3
+MO,Missouri,OBESITY,Obesity among adults,115,38.95,38.9
+MS,Mississippi,BPHIGH,High blood pressure among adults,82,43.45,42.95
+MS,Mississippi,DIABETES,Diagnosed diabetes among adults,82,14.76,14.4
+MS,Mississippi,LPA,No leisure-time physical activity among adults,82,35.84,35.65
+MS,Mississippi,OBESITY,Obesity among adults,82,42.84,42.6
+MT,Montana,BPHIGH,High blood pressure among adults,56,29.45,29.2
+MT,Montana,DIABETES,Diagnosed diabetes among adults,56,8.98,8.5
+MT,Montana,LPA,No leisure-time physical activity among adults,56,22.14,21.9
+MT,Montana,OBESITY,Obesity among adults,56,33.48,32.95
+NC,North Carolina,BPHIGH,High blood pressure among adults,100,35.27,34.2
+NC,North Carolina,DIABETES,Diagnosed diabetes among adults,100,11.23,10.75
+NC,North Carolina,LPA,No leisure-time physical activity among adults,100,25.33,24.9
+NC,North Carolina,OBESITY,Obesity among adults,100,37.5,37.15
+ND,North Dakota,BPHIGH,High blood pressure among adults,53,30.89,30.3
+ND,North Dakota,DIABETES,Diagnosed diabetes among adults,53,9.56,9.0
+ND,North Dakota,LPA,No leisure-time physical activity among adults,53,23.85,23.1
+ND,North Dakota,OBESITY,Obesity among adults,53,39.03,38.5
+NE,Nebraska,BPHIGH,High blood pressure among adults,93,30.32,30.2
+NE,Nebraska,DIABETES,Diagnosed diabetes among adults,93,9.61,9.6
+NE,Nebraska,LPA,No leisure-time physical activity among adults,93,26.31,26.3
+NE,Nebraska,OBESITY,Obesity among adults,93,39.78,39.8
+NH,New Hampshire,BPHIGH,High blood pressure among adults,10,28.09,28.05
+NH,New Hampshire,DIABETES,Diagnosed diabetes among adults,10,7.77,7.6
+NH,New Hampshire,LPA,No leisure-time physical activity among adults,10,20.01,19.0
+NH,New Hampshire,OBESITY,Obesity among adults,10,31.66,31.75
+NJ,New Jersey,BPHIGH,High blood pressure among adults,21,29.53,29.2
+NJ,New Jersey,DIABETES,Diagnosed diabetes among adults,21,9.24,8.9
+NJ,New Jersey,LPA,No leisure-time physical activity among adults,21,23.76,23.8
+NJ,New Jersey,OBESITY,Obesity among adults,21,29.63,29.7
+NM,New Mexico,BPHIGH,High blood pressure among adults,33,31.32,31.4
+NM,New Mexico,DIABETES,Diagnosed diabetes among adults,33,12.12,12.4
+NM,New Mexico,LPA,No leisure-time physical activity among adults,33,26.74,27.6
+NM,New Mexico,OBESITY,Obesity among adults,33,35.36,35.6
+NV,Nevada,BPHIGH,High blood pressure among adults,17,30.79,31.1
+NV,Nevada,DIABETES,Diagnosed diabetes among adults,17,10.28,10.2
+NV,Nevada,LPA,No leisure-time physical activity among adults,17,25.37,25.6
+NV,Nevada,OBESITY,Obesity among adults,17,34.56,35.0
+NY,New York,BPHIGH,High blood pressure among adults,62,29.99,30.05
+NY,New York,DIABETES,Diagnosed diabetes among adults,62,9.17,9.0
+NY,New York,LPA,No leisure-time physical activity among adults,62,24.45,24.5
+NY,New York,OBESITY,Obesity among adults,62,33.05,32.9
+OH,Ohio,BPHIGH,High blood pressure among adults,88,33.98,33.85
+OH,Ohio,DIABETES,Diagnosed diabetes among adults,88,11.29,11.3
+OH,Ohio,LPA,No leisure-time physical activity among adults,88,27.91,28.15
+OH,Ohio,OBESITY,Obesity among adults,88,39.04,39.3
+OK,Oklahoma,BPHIGH,High blood pressure among adults,77,37.28,37.4
+OK,Oklahoma,DIABETES,Diagnosed diabetes among adults,77,12.0,11.9
+OK,Oklahoma,LPA,No leisure-time physical activity among adults,77,32.72,32.5
+OK,Oklahoma,OBESITY,Obesity among adults,77,41.06,40.4
+OR,Oregon,BPHIGH,High blood pressure among adults,36,30.25,30.3
+OR,Oregon,DIABETES,Diagnosed diabetes among adults,36,10.13,10.05
+OR,Oregon,LPA,No leisure-time physical activity among adults,36,21.12,20.85
+OR,Oregon,OBESITY,Obesity among adults,36,35.51,35.75
+RI,Rhode Island,BPHIGH,High blood pressure among adults,5,29.18,28.2
+RI,Rhode Island,DIABETES,Diagnosed diabetes among adults,5,8.6,7.9
+RI,Rhode Island,LPA,No leisure-time physical activity among adults,5,20.7,18.4
+RI,Rhode Island,OBESITY,Obesity among adults,5,29.66,28.0
+SC,South Carolina,BPHIGH,High blood pressure among adults,46,37.27,37.05
+SC,South Carolina,DIABETES,Diagnosed diabetes among adults,46,13.46,13.2
+SC,South Carolina,LPA,No leisure-time physical activity among adults,46,28.46,28.8
+SC,South Carolina,OBESITY,Obesity among adults,46,39.15,38.35
+SD,South Dakota,BPHIGH,High blood pressure among adults,66,30.68,29.4
+SD,South Dakota,DIABETES,Diagnosed diabetes among adults,66,11.07,9.9
+SD,South Dakota,LPA,No leisure-time physical activity among adults,66,25.35,23.65
+SD,South Dakota,OBESITY,Obesity among adults,66,37.23,35.9
+TN,Tennessee,BPHIGH,High blood pressure among adults,95,37.13,37.2
+TN,Tennessee,DIABETES,Diagnosed diabetes among adults,95,12.33,12.3
+TN,Tennessee,LPA,No leisure-time physical activity among adults,95,28.38,28.8
+TN,Tennessee,OBESITY,Obesity among adults,95,39.85,39.8
+TX,Texas,BPHIGH,High blood pressure among adults,254,33.56,33.5
+TX,Texas,DIABETES,Diagnosed diabetes among adults,254,12.59,12.2
+TX,Texas,LPA,No leisure-time physical activity among adults,254,30.23,29.6
+TX,Texas,OBESITY,Obesity among adults,254,37.74,37.5
+US,United States,BPHIGH,High blood pressure among adults,1,30.7,30.7
+US,United States,DIABETES,Diagnosed diabetes among adults,1,10.3,10.3
+US,United States,LPA,No leisure-time physical activity among adults,1,23.7,23.7
+US,United States,OBESITY,Obesity among adults,1,32.9,32.9
+UT,Utah,BPHIGH,High blood pressure among adults,29,28.91,28.8
+UT,Utah,DIABETES,Diagnosed diabetes among adults,29,9.37,9.3
+UT,Utah,LPA,No leisure-time physical activity among adults,29,19.3,19.2
+UT,Utah,OBESITY,Obesity among adults,29,31.85,32.8
+VA,Virginia,BPHIGH,High blood pressure among adults,133,34.34,33.6
+VA,Virginia,DIABETES,Diagnosed diabetes among adults,133,11.75,11.5
+VA,Virginia,LPA,No leisure-time physical activity among adults,133,25.78,25.7
+VA,Virginia,OBESITY,Obesity among adults,133,37.9,38.3
+VT,Vermont,BPHIGH,High blood pressure among adults,14,27.4,27.7
+VT,Vermont,DIABETES,Diagnosed diabetes among adults,14,7.29,7.2
+VT,Vermont,LPA,No leisure-time physical activity among adults,14,19.08,18.3
+VT,Vermont,OBESITY,Obesity among adults,14,30.39,30.35
+WA,Washington,BPHIGH,High blood pressure among adults,39,29.06,29.0
+WA,Washington,DIABETES,Diagnosed diabetes among adults,39,9.21,9.1
+WA,Washington,LPA,No leisure-time physical activity among adults,39,19.57,19.0
+WA,Washington,OBESITY,Obesity among adults,39,34.21,35.0
+WI,Wisconsin,BPHIGH,High blood pressure among adults,72,29.47,29.45
+WI,Wisconsin,DIABETES,Diagnosed diabetes among adults,72,9.66,9.5
+WI,Wisconsin,LPA,No leisure-time physical activity among adults,72,27.02,27.3
+WI,Wisconsin,OBESITY,Obesity among adults,72,38.86,39.15
+WV,West Virginia,BPHIGH,High blood pressure among adults,55,38.97,38.7
+WV,West Virginia,DIABETES,Diagnosed diabetes among adults,55,13.2,13.1
+WV,West Virginia,LPA,No leisure-time physical activity among adults,55,32.65,32.6
+WV,West Virginia,OBESITY,Obesity among adults,55,41.33,41.3
+WY,Wyoming,BPHIGH,High blood pressure among adults,23,28.4,28.7
+WY,Wyoming,DIABETES,Diagnosed diabetes among adults,23,9.34,9.3
+WY,Wyoming,LPA,No leisure-time physical activity among adults,23,24.79,25.5
+WY,Wyoming,OBESITY,Obesity among adults,23,34.14,34.8

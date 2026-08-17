@@ -1,0 +1,5 @@
+measureid,measure,locations,avg_prevalence,median_prevalence,min_prevalence,max_prevalence
+BPHIGH,High blood pressure among adults,2958,33.54,32.8,21.0,53.1
+DIABETES,Diagnosed diabetes among adults,2958,11.17,10.7,6.0,23.8
+LPA,No leisure-time physical activity among adults,2958,27.02,26.5,12.2,48.9
+OBESITY,Obesity among adults,2958,37.63,38.2,17.1,54.0

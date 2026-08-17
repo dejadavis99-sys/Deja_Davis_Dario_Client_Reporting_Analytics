@@ -1,0 +1,21 @@
+year,stateabbr,statedesc,locationname,locationid,category,measure,measureid,data_value_unit,data_value_type,data_value,low_confidence_limit,high_confidence_limit,totalpopulation,totalpop18plus
+2023,MS,Mississippi,Holmes,28051,Health Outcomes,High blood pressure among adults,BPHIGH,%,Age-adjusted prevalence,53.1,48.3,57.6,15777,11936
+2023,LA,Louisiana,East Carroll,22035,Health Outcomes,High blood pressure among adults,BPHIGH,%,Age-adjusted prevalence,52.5,47.8,57.0,6829,5465
+2023,AL,Alabama,Bullock,1011,Health Outcomes,High blood pressure among adults,BPHIGH,%,Age-adjusted prevalence,52.4,47.8,57.0,9897,7878
+2023,AL,Alabama,Greene,1063,Health Outcomes,High blood pressure among adults,BPHIGH,%,Age-adjusted prevalence,52.4,47.6,56.9,7341,5755
+2023,MS,Mississippi,Humphreys,28053,Health Outcomes,High blood pressure among adults,BPHIGH,%,Age-adjusted prevalence,52.4,47.6,56.9,7216,5419
+2023,SD,South Dakota,Oglala Lakota,46102,Health Outcomes,Diagnosed diabetes among adults,DIABETES,%,Age-adjusted prevalence,23.8,21.3,26.6,13434,8652
+2023,SD,South Dakota,Todd,46121,Health Outcomes,Diagnosed diabetes among adults,DIABETES,%,Age-adjusted prevalence,22.9,20.2,25.7,9199,5411
+2023,TX,Texas,Dimmit,48127,Health Outcomes,Diagnosed diabetes among adults,DIABETES,%,Age-adjusted prevalence,21.5,18.9,24.3,8257,5890
+2023,TX,Texas,Zavala,48507,Health Outcomes,Diagnosed diabetes among adults,DIABETES,%,Age-adjusted prevalence,21.4,19.8,23.1,9312,6563
+2023,AL,Alabama,Bullock,1011,Health Outcomes,Diagnosed diabetes among adults,DIABETES,%,Age-adjusted prevalence,21.3,18.9,23.9,9897,7878
+2023,TX,Texas,Dimmit,48127,Health Risk Behaviors,No leisure-time physical activity among adults,LPA,%,Age-adjusted prevalence,48.9,41.9,55.5,8257,5890
+2023,TX,Texas,Zavala,48507,Health Risk Behaviors,No leisure-time physical activity among adults,LPA,%,Age-adjusted prevalence,48.2,43.3,53.2,9312,6563
+2023,TX,Texas,Starr,48427,Health Risk Behaviors,No leisure-time physical activity among adults,LPA,%,Age-adjusted prevalence,47.6,40.7,54.5,65934,44621
+2023,TX,Texas,Zapata,48505,Health Risk Behaviors,No leisure-time physical activity among adults,LPA,%,Age-adjusted prevalence,47.1,40.3,54.1,13736,9425
+2023,TX,Texas,Jim Hogg,48247,Health Risk Behaviors,No leisure-time physical activity among adults,LPA,%,Age-adjusted prevalence,46.6,41.3,51.5,4720,3365
+2023,AL,Alabama,Perry,1105,Health Outcomes,Obesity among adults,OBESITY,%,Age-adjusted prevalence,54.0,45.5,62.7,7738,6081
+2023,AL,Alabama,Greene,1063,Health Outcomes,Obesity among adults,OBESITY,%,Age-adjusted prevalence,53.4,44.5,61.9,7341,5755
+2023,MS,Mississippi,Humphreys,28053,Health Outcomes,Obesity among adults,OBESITY,%,Age-adjusted prevalence,53.0,43.9,61.4,7216,5419
+2023,AL,Alabama,Wilcox,1131,Health Outcomes,Obesity among adults,OBESITY,%,Age-adjusted prevalence,51.9,42.8,60.7,9944,7755
+2023,LA,Louisiana,East Carroll,22035,Health Outcomes,Obesity among adults,OBESITY,%,Age-adjusted prevalence,51.7,42.4,60.6,6829,5465
